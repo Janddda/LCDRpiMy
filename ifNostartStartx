@@ -1,0 +1,3 @@
+o I change the .conf file using sudo nano /usr/share/X11/xorg.conf.d/99-fbturbo.conf
+
+and changed fb1 to fb0 (despite the setup instructions saying otherwise) and it at least got me the "startx" screen again (using "sudo startx", didn't need to reboot)
